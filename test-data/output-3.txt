@@ -1,0 +1,6 @@
+SUCCESS # Hajó inicializálva
+SUCCESS # 1. lövés a primary-ból
+SUCCESS # 2. lövés a secondary-ból
+SUCCESS # 3. lövés a primary-ból (mert a sec üres)
+SUCCESS # 4. lövés a primary-ból (utolsó töltény)
+FAIL    # 5. lövés elbukik, a hajó üres

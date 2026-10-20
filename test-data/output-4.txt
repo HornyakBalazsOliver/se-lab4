@@ -1,0 +1,3 @@
+SUCCESS # Hajó inicializálva
+FAIL    # 1. lövés a primary-ból hiba miatt besül
+SUCCESS # 2. lövés a secondary-ból sikeres

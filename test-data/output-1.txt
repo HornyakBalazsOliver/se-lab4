@@ -1,0 +1,3 @@
+SUCCESS # Hajó inicializálva
+SUCCESS # 1. lövés a primary-ból sikeres
+FAIL    # 2. lövés elbukik, mert a hajó üres

@@ -1,0 +1,4 @@
+# 4. teszteset: If the fired store reports a failure, no try for the other.
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

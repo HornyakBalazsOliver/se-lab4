@@ -1,0 +1,4 @@
+SUCCESS # Hajó inicializálva
+SUCCESS # 1. lövés a primary-ból
+SUCCESS # 2. lövés a secondary-ból (váltakozás)
+FAIL    # 3. lövés elbukik, mert mindkettő kiürült
