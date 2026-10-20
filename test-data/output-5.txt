@@ -1,0 +1,3 @@
+SUCCESS # Hajó inicializálva
+SUCCESS # ALL lövés sikeres (mindkét tároló kiürül)
+FAIL    # SINGLE lövés elbukik, mert a hajó üres

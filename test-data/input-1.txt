@@ -1,0 +1,4 @@
+# 1. teszteset: For the first time the primary store is fired.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

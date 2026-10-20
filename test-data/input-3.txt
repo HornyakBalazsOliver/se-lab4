@@ -1,0 +1,7 @@
+# 3. teszteset: If the store next in line is empty, the ship tries the other.
+GT4500,3,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
